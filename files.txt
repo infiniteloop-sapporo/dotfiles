@@ -1,0 +1,5 @@
+.bashrc
+.tmux.conf
+.gnupg/gpg-agent.conf
+.ssh/config
+.ssh/conf.d/general
